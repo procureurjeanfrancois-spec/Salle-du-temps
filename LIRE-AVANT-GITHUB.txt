@@ -28,3 +28,6 @@ Les programmes et la clé de sauvegarde locale sont conservés.
 
 VERSION 4 — COCHES QUOTIDIENNES
 Alimentation, hydratation, repos (mobilité, stress, sommeil) et compléments représentés par les haricots magiques. Les coches sont libres, réversibles et enregistrées par date dans les sauvegardes. Chaque nouveau jour présente des coches vierges sans effacer les journées précédentes. Aucun XP supplémentaire n’est attribué pour ces coches. Les compléments sont facultatifs. Les sauvegardes précédentes restent compatibles.
+
+VERSION 5 — ILLUSTRATIONS CORRIGÉES
+Les illustrations des exercices sont maintenant produites séparément, sans découpe d’une planche. Le tirage correspond aux tractions australiennes dans les séances B et C. Les répétitions et charges enregistrées sont conservées par position dans chaque circuit. Remplace tous les fichiers, dossier assets inclus, dans le même dépôt GitHub.
