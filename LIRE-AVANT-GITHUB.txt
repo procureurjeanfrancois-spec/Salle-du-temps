@@ -1,0 +1,20 @@
+SALLE DU TEMPS — VERSION GITHUB V2
+
+Pack complet autonome. Aucun hébergement ChatGPT nécessaire.
+
+1. Décompresse le ZIP.
+2. Crée un dépôt GitHub séparé pour Salle du temps.
+3. Dépose TOUT LE CONTENU du pack à la racine du dépôt, en conservant le dossier assets. Le fichier index.html doit être à la racine. Ne dépose pas le ZIP lui-même.
+4. Active GitHub Pages pour ce dépôt.
+5. Ouvre le lien GitHub Pages pour tester puis installer l’app sur ton téléphone.
+
+L’application utilise des chemins relatifs : compatible avec un sous-dossier GitHub Pages.
+Les illustrations, minuteurs, progression, collection et sauvegardes sont inclus.
+
+Si tu as commencé à enregistrer des données dans la précédente version hébergée : exporte-les dans ses réglages, puis restaure ce fichier dans la version GitHub. Le navigateur ne partage pas automatiquement les données entre les deux liens.
+
+Installation : Safari sur iPhone > Partager > Sur l’écran d’accueil. Chrome sur Android > menu > Installer ou Ajouter à l’écran d’accueil. Les sons et vibrations ne sont pas garantis écran verrouillé.
+
+Corrections V2 : structure de l’accueil refaite en grille ; largeur complète du décor et de l’avatar ; vrai détecteur illustré avec XP dynamiques ; titre Salle du temps ; pas de police distante.
+
+Vérification : tests d’interaction réussis, assets et chemins locaux vérifiés. Rendu réel sur téléphone et installation à vérifier sur ton appareil.
