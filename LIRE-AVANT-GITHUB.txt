@@ -25,3 +25,6 @@ Remplace les fichiers de la version précédente dans le même dépôt, y compri
 Sons : démarrage, avertissement à 10 secondes, 3/2/1, fin, repos et reprise. Active les sons et règle le volume dans les paramètres ; le premier appui sur Démarrer initialise le son.
 Vérifie le volume de ton téléphone et teste le minuteur avec l’application ouverte. Le son n’est pas garanti écran verrouillé ou application en arrière-plan.
 Les programmes et la clé de sauvegarde locale sont conservés.
+
+VERSION 4 — COCHES QUOTIDIENNES
+Alimentation, hydratation, repos (mobilité, stress, sommeil) et compléments représentés par les haricots magiques. Les coches sont libres, réversibles et enregistrées par date dans les sauvegardes. Chaque nouveau jour présente des coches vierges sans effacer les journées précédentes. Aucun XP supplémentaire n’est attribué pour ces coches. Les compléments sont facultatifs. Les sauvegardes précédentes restent compatibles.
