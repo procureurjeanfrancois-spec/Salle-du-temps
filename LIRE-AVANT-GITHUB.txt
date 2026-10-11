@@ -31,3 +31,6 @@ Alimentation, hydratation, repos (mobilité, stress, sommeil) et compléments re
 
 VERSION 5 — ILLUSTRATIONS CORRIGÉES
 Les illustrations des exercices sont maintenant produites séparément, sans découpe d’une planche. Le tirage correspond aux tractions australiennes dans les séances B et C. Les répétitions et charges enregistrées sont conservées par position dans chaque circuit. Remplace tous les fichiers, dossier assets inclus, dans le même dépôt GitHub.
+
+VERSION 6 — RUBRIQUE SANTÉ
+Nouvel onglet Santé : salle médicale, compteur de repas, eau bue en litres (boutons par 0,25 L), coches sommeil 7 h, eau froide, stress contrôlé et compléments D3, multivitamines, créatine, oméga-3, magnésium. Suivi daté, corrigeable et sauvegardé, sans XP. Les anciennes coches restent dans les données, sans conversion inventée. Le sélecteur de date permet de retrouver les jours précédents. Les séances, XP et sauvegardes restent compatibles.
