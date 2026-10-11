@@ -18,3 +18,10 @@ Installation : Safari sur iPhone > Partager > Sur l’écran d’accueil. Chrome
 Corrections V2 : structure de l’accueil refaite en grille ; largeur complète du décor et de l’avatar ; vrai détecteur illustré avec XP dynamiques ; titre Salle du temps ; pas de police distante.
 
 Vérification : tests d’interaction réussis, assets et chemins locaux vérifiés. Rendu réel sur téléphone et installation à vérifier sur ton appareil.
+
+VERSION 3 — AVATAR ET MINUTEURS
+Remplace les fichiers de la version précédente dans le même dépôt, y compris le dossier assets. Ne change pas l’adresse du site pour conserver tes données locales. Exporte une sauvegarde avant la mise à jour.
+13 illustrations transparentes accompagnent les mouvements et les activités. Ce sont des poses illustrées, pas des vidéos de démonstration.
+Sons : démarrage, avertissement à 10 secondes, 3/2/1, fin, repos et reprise. Active les sons et règle le volume dans les paramètres ; le premier appui sur Démarrer initialise le son.
+Vérifie le volume de ton téléphone et teste le minuteur avec l’application ouverte. Le son n’est pas garanti écran verrouillé ou application en arrière-plan.
+Les programmes et la clé de sauvegarde locale sont conservés.
